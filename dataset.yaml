@@ -1,0 +1,6 @@
+train: C:\Users\hamsa\OneDrive\Desktop\ML and DL\Genik project\Wild Animal detection using YOLO\elephant-dataset-yolov\train\images
+val: C:\Users\hamsa\OneDrive\Desktop\ML and DL\Genik project\Wild Animal detection using YOLO\elephant-dataset-yolov\valid\images
+test: C:\Users\hamsa\OneDrive\Desktop\ML and DL\Genik project\Wild Animal detection using YOLO\elephant-dataset-yolov\test\images
+
+nc: 1  # Number of classes
+names: ["elephant"]
